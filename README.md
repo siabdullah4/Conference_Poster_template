@@ -1,2 +1,2 @@
 # Conference_Poster_template
-This repository contains a conference poster template that I used to prepare my own poster. Feel free to use and modify the size in Microsoft PowerPoint according to your requirements.
+This repository contains a standard conference poster template I used to prepare my poster. Please feel free to use and modify the size in Microsoft PowerPoint according to your needs.
